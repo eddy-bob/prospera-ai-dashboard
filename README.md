@@ -32,8 +32,8 @@ This is a concept UI/UX dashboard built for Prospera AI as part of a pre-joining
 ## 🧪 Local Setup
 
 ```bash
-git clone https://github.com/yourusername/prospera-dashboard.git
-cd prospera-dashboard
+git clone https://github.com/yourusername/prospera-ai-dashboard.git
+cd prospera-ai-dashboard
 npm install
 npm run dev
 ```
